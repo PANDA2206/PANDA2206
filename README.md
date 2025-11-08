@@ -1,7 +1,3 @@
-## Hi there 👋
-
-
-
 <h1 align="center">Hi 👋, I'm Pankaj Rathi</h1>
 <h3 align="center">Autonomous Robotics • Computer Vision • AI/ML</h3>
 
